@@ -13,7 +13,7 @@ Born from frustration, forged in decentralization, and delivered with a purr.
 
 ## 🌐 Website
 
-Visit: [https://kanglan08.github.io/maocoin](https://kanglan08.github.io/maocoin)
+Visit:https://slinger-ops.github.io/maocoin/
 
 ## 📸 Screenshots
 
